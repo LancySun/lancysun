@@ -62,3 +62,7 @@ e, __file__, 'exec'))" install --record C:\Users\sunlanzi\AppData\Local\Temp\pip
 -record-r2pffj8n\install-record.txt --single-version-externally-managed --compil
 e" failed with error code 1 in C:\Users\sunlanzi\AppData\Local\Temp\pip-install-
 3vgmjh01\FlaskSQLAlchemy\
+
+
+
+！！！！！！网站：http://www.cnblogs.com/mysql-dba/p/6070258.html
