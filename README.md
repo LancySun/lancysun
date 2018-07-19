@@ -1,9 +1,4 @@
-# lancysun
-https://github.com/Fretice/flask-zhenai-mongo-echarts
-
-
-date：7月19 time：14:25
-1
+第一个问题
 FLASK_APP = blog2/__init__.py
 FLASK_ENV = development
 FLASK_DEBUG = 0
@@ -23,7 +18,7 @@ Traceback (most recent call last):
     from flask_sqlalchemy import SQLAlchemy
 ModuleNotFoundError: No module named 'flask_sqlalchemy'
 Process finished with exit code 2
-2
+第二个问题
 C:\Users\sunlanzi>pip3 install FlaskSQLAlchemy
 Collecting FlaskSQLAlchemy
   Using cached https://files.pythonhosted.org/packages/c1/46/35786dd4ce741092917
